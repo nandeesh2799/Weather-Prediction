@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Model and training artifacts
+models/*.joblib
+artifacts/
+reports/
+
+# Local data cache
+dataset/*.csv
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
